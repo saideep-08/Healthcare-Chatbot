@@ -1,0 +1,6 @@
+{
+                "intents": [
+                    {"tag": "greeting", "patterns": ["Hello", "Hi", "Hey"], "responses": ["Hello! How can I assist you?"]},
+                    {"tag": "symptom_check", "patterns": ["I have a headache", "What are COVID symptoms?"], "responses": ["Please describe your symptoms in detail."]}
+                ]
+            }
